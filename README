@@ -1,0 +1,13 @@
+A Flutter app, that pull and display information about different countries with common names, official names, currencies, and country flags.
+
+How to run the program?
+- Install Flutter
+- Clone the git Repository ( https://github.com/yourusername/country_info_app.git )
+- Then install dependancies : flutter pub get
+- Then Run App : flutter run
+
+
+Dependencies used?
+ - http: ^1.2.2
+ - provider: ^6.1.2
+
